@@ -20,6 +20,3 @@
 ### Install Scapy
 ```bash
 pip install scapy
-
-### Usage NumbScan
-``` python3 numbscan.py
